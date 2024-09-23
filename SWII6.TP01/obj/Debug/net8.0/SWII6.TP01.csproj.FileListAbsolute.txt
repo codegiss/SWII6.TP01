@@ -1,0 +1,14 @@
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\bin\Debug\net8.0\SWII6.TP01.exe
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\bin\Debug\net8.0\SWII6.TP01.deps.json
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\bin\Debug\net8.0\SWII6.TP01.runtimeconfig.json
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\bin\Debug\net8.0\SWII6.TP01.dll
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\bin\Debug\net8.0\SWII6.TP01.pdb
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\obj\Debug\net8.0\SWII6.TP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\obj\Debug\net8.0\SWII6.TP01.AssemblyInfoInputs.cache
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\obj\Debug\net8.0\SWII6.TP01.AssemblyInfo.cs
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\obj\Debug\net8.0\SWII6.TP01.csproj.CoreCompileInputs.cache
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\obj\Debug\net8.0\SWII6.TP01.dll
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\obj\Debug\net8.0\refint\SWII6.TP01.dll
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\obj\Debug\net8.0\SWII6.TP01.pdb
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\obj\Debug\net8.0\SWII6.TP01.genruntimeconfig.cache
+C:\Users\Giselle\Downloads\SWII6.TP01\SWII6.TP01\obj\Debug\net8.0\ref\SWII6.TP01.dll

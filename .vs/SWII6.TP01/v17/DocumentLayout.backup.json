@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giselle\\Downloads\\SWII6.TP01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B97F51E3-3BD3-40A6-BB5E-B224A9292E14}|SWII6.TP01\\SWII6.TP01.csproj|c:\\users\\giselle\\downloads\\swii6.tp01\\swii6.tp01\\repositorio\\livrorepositoriocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97F51E3-3BD3-40A6-BB5E-B224A9292E14}|SWII6.TP01\\SWII6.TP01.csproj|solutionrelative:swii6.tp01\\repositorio\\livrorepositoriocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97F51E3-3BD3-40A6-BB5E-B224A9292E14}|SWII6.TP01\\SWII6.TP01.csproj|c:\\users\\giselle\\downloads\\swii6.tp01\\swii6.tp01\\negocio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97F51E3-3BD3-40A6-BB5E-B224A9292E14}|SWII6.TP01\\SWII6.TP01.csproj|solutionrelative:swii6.tp01\\negocio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97F51E3-3BD3-40A6-BB5E-B224A9292E14}|SWII6.TP01\\SWII6.TP01.csproj|c:\\users\\giselle\\downloads\\swii6.tp01\\swii6.tp01\\html\\livro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B97F51E3-3BD3-40A6-BB5E-B224A9292E14}|SWII6.TP01\\SWII6.TP01.csproj|solutionrelative:swii6.tp01\\html\\livro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97F51E3-3BD3-40A6-BB5E-B224A9292E14}|SWII6.TP01\\SWII6.TP01.csproj|c:\\users\\giselle\\downloads\\swii6.tp01\\swii6.tp01\\repositorio\\books.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B97F51E3-3BD3-40A6-BB5E-B224A9292E14}|SWII6.TP01\\SWII6.TP01.csproj|solutionrelative:swii6.tp01\\repositorio\\books.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroRepositorioCSV.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Downloads\\SWII6.TP01\\SWII6.TP01\\Repositorio\\LivroRepositorioCSV.cs",
+              "RelativeDocumentMoniker": "SWII6.TP01\\Repositorio\\LivroRepositorioCSV.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Downloads\\SWII6.TP01\\SWII6.TP01\\Repositorio\\LivroRepositorioCSV.cs",
+              "RelativeToolTip": "SWII6.TP01\\Repositorio\\LivroRepositorioCSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:41:06.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "books.csv",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Downloads\\SWII6.TP01\\SWII6.TP01\\Repositorio\\books.csv",
+              "RelativeDocumentMoniker": "SWII6.TP01\\Repositorio\\books.csv",
+              "ToolTip": "C:\\Users\\Giselle\\Downloads\\SWII6.TP01\\SWII6.TP01\\Repositorio\\books.csv",
+              "RelativeToolTip": "SWII6.TP01\\Repositorio\\books.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-09-23T01:38:13.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "livro.html",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Downloads\\SWII6.TP01\\SWII6.TP01\\HTML\\livro.html",
+              "RelativeDocumentMoniker": "SWII6.TP01\\HTML\\livro.html",
+              "ToolTip": "C:\\Users\\Giselle\\Downloads\\SWII6.TP01\\SWII6.TP01\\HTML\\livro.html",
+              "RelativeToolTip": "SWII6.TP01\\HTML\\livro.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-23T01:33:55.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Downloads\\SWII6.TP01\\SWII6.TP01\\Negocio\\Startup.cs",
+              "RelativeDocumentMoniker": "SWII6.TP01\\Negocio\\Startup.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Downloads\\SWII6.TP01\\SWII6.TP01\\Negocio\\Startup.cs",
+              "RelativeToolTip": "SWII6.TP01\\Negocio\\Startup.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:29:04.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
